@@ -117,11 +117,36 @@ All 27 live in [building-blocks/](building-blocks/). The rest cover drift and re
 
 ## Design questions
 
-Each walkthrough stays at the level of approach, key decisions, and trade-offs, using the seven steps. Full catalog in [questions/](questions/).
+Twenty walkthroughs, each at the level of approach, key decisions, and trade-offs, using the seven steps. Full catalog in [questions/](questions/).
 
-- [Design feed ranking](questions/design-feed-ranking.md), the classic ML family.
-- [Design enterprise document Q and A](questions/design-enterprise-document-qa.md), the retrieval family.
-- [Design a customer support agent](questions/design-a-customer-support-agent.md), the agentic family.
+**Classic ML**
+
+- [Design feed ranking](questions/design-feed-ranking.md)
+- [Design a recommendation system](questions/design-a-recommendation-system.md)
+- [Design search ranking](questions/design-search-ranking.md)
+- [Design ad click prediction](questions/design-ad-click-prediction.md)
+- [Design fraud detection](questions/design-fraud-detection.md)
+- [Design harmful content detection](questions/design-harmful-content-detection.md)
+- [Design people you may know](questions/design-people-you-may-know.md)
+- [Design ETA prediction](questions/design-eta-prediction.md)
+- [Design visual search](questions/design-visual-search.md)
+
+**GenAI and agents**
+
+- [Design enterprise document Q and A](questions/design-enterprise-document-qa.md)
+- [Design a customer support agent](questions/design-a-customer-support-agent.md)
+
+**Platform and infrastructure**
+
+- [Design an LLM inference platform](questions/design-an-llm-inference-platform.md)
+- [Design an LLM gateway](questions/design-an-llm-gateway.md)
+- [Design a GPU cluster scheduler](questions/design-a-gpu-cluster-scheduler.md)
+- [Design a feature store](questions/design-a-feature-store.md)
+- [Design a model evaluation pipeline](questions/design-a-model-evaluation-pipeline.md)
+- [Design a vector database](questions/design-a-vector-database.md)
+- [Design a prompt management service](questions/design-a-prompt-management-service.md)
+- [Design a data labeling platform](questions/design-a-data-labeling-platform.md)
+- [Design model monitoring](questions/design-model-monitoring.md)
 
 ## Cheat sheets
 
@@ -153,13 +178,13 @@ New to the vocabulary? Start with the [glossary](glossary.md). Reading list: [re
 
 This repository is being built in batches. Planned, in order:
 
-1. The full question catalog across all three families, plus a practice bank.
+1. The GenAI and agent questions: a ChatGPT-style assistant, a code assistant, AI search, text to image, a meeting assistant, a coding agent. Plus a practice bank.
 2. Comparison sheets: vector databases, GPUs, serving stacks, embedding models, open vs closed models.
 3. Deep dives on retrieval, training, and production ML platforms.
 4. Evaluation guides per system type.
 5. Company pages for teams that run an AI round.
 
-Done so far: the seven-step framework, all 27 building blocks, one worked question per family, and the first evaluation guides.
+Done so far: the seven-step framework, all 27 building blocks, 20 worked questions, and the first evaluation guides.
 
 Want to help? Pick one from the list and open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
