@@ -11,14 +11,14 @@ The system predicts something. The data step is the long one.
 | Question | Difficulty | Key building blocks | Status |
 |----------|-----------|---------------------|--------|
 | [Design feed ranking](design-feed-ranking.md) | Medium | Multi-stage ranking, feature stores, online experiments | Written |
-| Design a recommendation system | Medium | Candidate generation, two-tower retrieval | Planned |
-| Design search ranking | Medium | Hybrid retrieval, reranking, click models | Planned |
-| Design ad click prediction | Hard | Calibration, real-time features, auctions | Planned |
-| Design fraud detection | Hard | Delayed labels, class imbalance, human review | Planned |
-| Design harmful content detection | Hard | Risk funnel, action ladder, adversarial drift | Planned |
-| Design people you may know | Hard | Graph features, candidate generation at scale | Planned |
-| Design ETA prediction | Medium | Streaming features, geospatial data | Planned |
-| Design visual search | Medium | Image embeddings, vector indexes | Planned |
+| [Design a recommendation system](design-a-recommendation-system.md) | Medium | Candidate generation, two-tower retrieval | Written |
+| [Design search ranking](design-search-ranking.md) | Medium | Hybrid retrieval, reranking, click models | Written |
+| [Design ad click prediction](design-ad-click-prediction.md) | Hard | Calibration, real-time features, auctions | Written |
+| [Design fraud detection](design-fraud-detection.md) | Hard | Delayed labels, class imbalance, human review | Written |
+| [Design harmful content detection](design-harmful-content-detection.md) | Hard | Risk funnel, action ladder, adversarial drift | Written |
+| [Design people you may know](design-people-you-may-know.md) | Hard | Graph features, candidate generation at scale | Written |
+| [Design ETA prediction](design-eta-prediction.md) | Medium | Streaming features, asymmetric loss | Written |
+| [Design visual search](design-visual-search.md) | Medium | Image embeddings, vector indexes | Written |
 
 ## GenAI and LLM products
 
@@ -48,17 +48,19 @@ The system acts. The control and evaluation steps are the long ones.
 
 The system serves other teams' models. These come up in infrastructure loops.
 
+Platform questions use the same seven steps, with step 4 as the core design choice rather than a model choice.
+
 | Question | Difficulty | Key building blocks | Status |
 |----------|-----------|---------------------|--------|
-| Design an LLM inference platform | Hard | Continuous batching, autoscaling, multi-tenancy | Planned |
-| Design an LLM gateway | Medium | Routing, fallback, quotas, cost attribution | Planned |
-| Design a GPU cluster scheduler | Hard | Gang scheduling, preemption, fairness | Planned |
-| Design a feature store | Medium | Offline and online stores, point-in-time joins | Planned |
-| Design a model evaluation pipeline | Medium | Offline sets, judges, regression gates | Planned |
-| Design a vector database | Hard | ANN indexes, sharding, filtered search | Planned |
-| Design a prompt management service | Medium | Versioning, experiments, rollback | Planned |
-| Design a data labeling platform | Medium | Quality control, agreement, active learning | Planned |
-| Design model monitoring | Medium | Drift, delayed labels, alerting | Planned |
+| [Design an LLM inference platform](design-an-llm-inference-platform.md) | Hard | Continuous batching, autoscaling, multi-tenancy | Written |
+| [Design an LLM gateway](design-an-llm-gateway.md) | Medium | Routing, fallback, quotas, cost attribution | Written |
+| [Design a GPU cluster scheduler](design-a-gpu-cluster-scheduler.md) | Hard | Gang scheduling, preemption, fairness | Written |
+| [Design a feature store](design-a-feature-store.md) | Medium | Offline and online stores, point-in-time joins | Written |
+| [Design a model evaluation pipeline](design-a-model-evaluation-pipeline.md) | Medium | Offline sets, judges, regression gates | Written |
+| [Design a vector database](design-a-vector-database.md) | Hard | ANN indexes, sharding, filtered search | Written |
+| [Design a prompt management service](design-a-prompt-management-service.md) | Medium | Versioning, experiments, rollback | Written |
+| [Design a data labeling platform](design-a-data-labeling-platform.md) | Medium | Quality control, agreement, active learning | Written |
+| [Design model monitoring](design-model-monitoring.md) | Medium | Drift, delayed labels, alerting | Written |
 
 ## Adding a question
 
