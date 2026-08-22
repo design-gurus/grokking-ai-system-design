@@ -78,3 +78,5 @@ Expect these follow-ups:
 ## Go deeper
 
 The full lesson on inference economics and serving optimizations: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+
+The platform this sits inside, at general system design altitude: [Design an LLM inference platform](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-llm-inference-platform.md).

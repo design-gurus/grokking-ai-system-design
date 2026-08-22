@@ -76,3 +76,5 @@ Expect these follow-ups:
 ## Go deeper
 
 The full lesson on embeddings, indexes, and hybrid retrieval: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+
+How the most common index works internally: [HNSW deep dive](https://github.com/design-gurus/grokking-system-design/blob/main/deep-dives/hnsw-vector-search.md).

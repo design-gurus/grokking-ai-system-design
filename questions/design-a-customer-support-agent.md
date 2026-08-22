@@ -121,3 +121,5 @@ Levers: cap steps, summarize tool output, and use a small model for the final me
 ## Go deeper
 
 The full worked solution, including the agentic capstone that runs on this same scenario: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+
+Written for a general system design round, architecture first: [Design an AI agent orchestration system](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-ai-agent-orchestration.md).

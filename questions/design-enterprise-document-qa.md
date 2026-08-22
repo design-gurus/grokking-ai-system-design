@@ -105,3 +105,5 @@ Levers: retrieve fewer passages, after measuring how many actually help. Cache r
 ## Go deeper
 
 The full worked solution, including the enterprise capstone: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+
+Written for a general system design round, architecture first: [Design a RAG pipeline](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-rag-pipeline.md).

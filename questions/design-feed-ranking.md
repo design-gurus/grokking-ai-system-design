@@ -98,3 +98,5 @@ Levers: cut candidates from 500 to 200 for low-activity users. Cache scores for 
 ## Go deeper
 
 The full worked solution, with the capstone version of this question: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+
+The general system design version of the same problem, without the model detail: [Design a recommendation system](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-recommendation-system.md).
