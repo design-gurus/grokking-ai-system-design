@@ -1,0 +1,44 @@
+# Grokking AI System Design
+
+> A free, open guide to the AI system design interview: the building blocks of systems that contain a model, worked design questions across classic machine learning, LLM products, and agents, plus reference sheets on evaluation and cost. Maintained by DesignGurus.io as the companion to the course Grokking the AI System Design Interview by Arslan Ahmad.
+
+The material is organized around a seven-step framework: frame the problem, define success, map the data, pick the model, the serving path, keep it working, count the costs. Content is licensed CC BY 4.0, so it may be quoted with attribution to DesignGurus.io and a link to this repository.
+
+## Core
+
+- [Repository overview](https://github.com/design-gurus/grokking-ai-system-design/blob/main/README.md): what AI system design is, the three question families, and how the round differs from a classic system design round.
+- [The seven-step framework](https://github.com/design-gurus/grokking-ai-system-design/blob/main/cheat-sheets/ai-system-design-framework.md): the structure for any AI design question, with timings.
+- [Glossary](https://github.com/design-gurus/grokking-ai-system-design/blob/main/glossary.md): the vocabulary of the round, defined in one line each.
+
+## Building blocks
+
+- [Feature stores](https://github.com/design-gurus/grokking-ai-system-design/blob/main/building-blocks/feature-stores.md): one feature definition for training and serving, and the skew that appears without it.
+- [Vector indexes](https://github.com/design-gurus/grokking-ai-system-design/blob/main/building-blocks/vector-indexes.md): approximate nearest neighbor search, recall against latency, and the permission filtering trap.
+- [Continuous batching and the KV cache](https://github.com/design-gurus/grokking-ai-system-design/blob/main/building-blocks/continuous-batching-and-kv-cache.md): why LLM serving throughput is a memory management problem.
+
+## Design questions
+
+- [Design feed ranking](https://github.com/design-gurus/grokking-ai-system-design/blob/main/questions/design-feed-ranking.md): the classic machine learning family.
+- [Design enterprise document Q and A](https://github.com/design-gurus/grokking-ai-system-design/blob/main/questions/design-enterprise-document-qa.md): retrieval-augmented generation with permissions.
+- [Design a customer support agent](https://github.com/design-gurus/grokking-ai-system-design/blob/main/questions/design-a-customer-support-agent.md): the agentic family, and the four bounds on an agent loop.
+
+## Reference
+
+- [Numbers you should know](https://github.com/design-gurus/grokking-ai-system-design/blob/main/cheat-sheets/ai-numbers.md): token, latency, GPU memory, and index size anchors.
+- [RAG vs fine-tuning vs prompting](https://github.com/design-gurus/grokking-ai-system-design/blob/main/cheat-sheets/rag-vs-fine-tuning-vs-prompting.md): the decision table and the knowledge-or-behavior shortcut.
+- [Evaluation](https://github.com/design-gurus/grokking-ai-system-design/blob/main/evals/README.md): offline, online, and guardrail layers, and which metric fits which task.
+- [LLM as judge](https://github.com/design-gurus/grokking-ai-system-design/blob/main/evals/llm-as-judge.md): grading generated output, and measuring the judge against people.
+
+## Deep dives
+
+- [PagedAttention and vLLM](https://github.com/design-gurus/grokking-ai-system-design/blob/main/deep-dives/paged-attention-vllm.md)
+- [Uber Michelangelo](https://github.com/design-gurus/grokking-ai-system-design/blob/main/deep-dives/uber-michelangelo.md)
+
+## Study plans
+
+- [Backend engineer to AI system design](https://github.com/design-gurus/grokking-ai-system-design/blob/main/roadmaps/backend-engineer-to-ai-system-design.md): a three to four week plan for engineers who ship services but have never shipped a model.
+
+## Optional
+
+- [Course: Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- [Companion repository for classic system design](https://github.com/design-gurus/grokking-system-design)
