@@ -96,15 +96,24 @@ One structure covers all three families. Full breakdown with timings: [cheat-she
 
 ## Building blocks
 
-The reusable parts of an AI system. Learn these once and you can assemble an answer to most questions.
+The reusable parts of an AI system. Learn these once and you can assemble an answer to most questions. These twelve come up most often.
 
-| Building block | What it solves | Status |
-|----------------|----------------|--------|
-| [Feature stores](building-blocks/feature-stores.md) | Serving the same feature values in training and in production | Written |
-| [Vector indexes](building-blocks/vector-indexes.md) | Finding similar items among billions, in milliseconds | Written |
-| [Continuous batching and the KV cache](building-blocks/continuous-batching-and-kv-cache.md) | Getting more tokens per second out of the same GPU | Written |
+| Building block | What it solves |
+|----------------|----------------|
+| [Feature stores](building-blocks/feature-stores.md) | Serving the same feature values in training and in production |
+| [Where training data comes from](building-blocks/where-training-data-comes-from.md) | Labels, what they cost, and how long they take to arrive |
+| [Embeddings](building-blocks/embeddings.md) | Turning items and text into vectors you can compare |
+| [Vector indexes](building-blocks/vector-indexes.md) | Finding similar items among billions, in milliseconds |
+| [Multi-stage ranking](building-blocks/multi-stage-ranking.md) | Retrieval, then ranking, then business rules |
+| [Chunking strategies](building-blocks/chunking-strategies.md) | Splitting documents so retrieval can find the right passage |
+| [Hybrid search](building-blocks/hybrid-search.md) | Combining keyword and vector search, because each misses different things |
+| [Reranking](building-blocks/reranking.md) | Buying precision at the top of the list with a second model |
+| [Continuous batching and the KV cache](building-blocks/continuous-batching-and-kv-cache.md) | Getting more tokens per second out of the same GPU |
+| [Tool calling](building-blocks/tool-calling.md) | Letting a model act, not just answer |
+| [The agent loop and its bounds](building-blocks/agent-loop-and-bounds.md) | Stopping a loop that would otherwise run forever |
+| [Online experiments](building-blocks/online-experiments.md) | Deciding a launch with an A/B test, not an offline score |
 
-More are on the way. See [what is coming next](#what-is-coming-next). To add one, copy [building-blocks/_template.md](building-blocks/_template.md).
+All 27 live in [building-blocks/](building-blocks/). The rest cover drift and retraining, model rollout, two-tower retrieval, grounding, serving and autoscaling, and speculative decoding. Then quantization, semantic caching, model gateways, agent memory, guardrails, human review, and GPU capacity planning. To add one, copy [building-blocks/_template.md](building-blocks/_template.md).
 
 ## Design questions
 
@@ -144,12 +153,13 @@ New to the vocabulary? Start with the [glossary](glossary.md). Reading list: [re
 
 This repository is being built in batches. Planned, in order:
 
-1. The rest of the building blocks. Embeddings, two-tower retrieval, multi-stage ranking, drift and retraining, and online experiments. Then speculative decoding, quantization, semantic caching, model gateways, tool calling, agent memory, guardrails, and GPU capacity planning.
-2. The full question catalog across all three families, plus a practice bank.
-3. Comparison sheets: vector databases, GPUs, serving stacks, embedding models, open vs closed models.
-4. Deep dives on retrieval, training, and production ML platforms.
-5. Evaluation guides per system type.
-6. Company pages for teams that run an AI round.
+1. The full question catalog across all three families, plus a practice bank.
+2. Comparison sheets: vector databases, GPUs, serving stacks, embedding models, open vs closed models.
+3. Deep dives on retrieval, training, and production ML platforms.
+4. Evaluation guides per system type.
+5. Company pages for teams that run an AI round.
+
+Done so far: the seven-step framework, all 27 building blocks, one worked question per family, and the first evaluation guides.
 
 Want to help? Pick one from the list and open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
