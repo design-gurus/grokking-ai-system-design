@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E1218"/>
+      <stop offset="1" stop-color="#162032"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1280" height="640" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1280" height="8" fill="#58A6FF"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="103" y="245" font-size="104" font-weight="700" fill="#58A6FF">Grokking</text>
+    <text x="103" y="342" font-size="104" font-weight="700" fill="#FFFFFF">AI System Design</text>
+    <text x="103" y="428" font-size="34" font-weight="400" fill="#8B949E">Building blocks, design questions, and evaluation</text>
+    <text x="103" y="473" font-size="34" font-weight="400" fill="#8B949E">for the AI system design interview</text>
+    <text x="103" y="572" font-size="27" font-weight="400" fill="#58A6FF">Free and open source&#160;&#160;|&#160;&#160;by DesignGurus.io</text>
+  </g>
+</svg>
