@@ -196,6 +196,7 @@ This repository is a free summary. The course has the worked solutions, the diag
 - AI foundations: [Grokking Modern AI Fundamentals](https://www.designgurus.io/course/grokking-modern-ai-fundamentals)
 - Classic system design: [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 - Practice live: [Mock interviews with ex-FAANG engineers](https://www.designgurus.io/mock-interviews)
+- Comparing courses: [Best System Design Courses](https://github.com/design-gurus/best-system-design-courses), including the best courses for AI system design rounds
 
 ## Newsletter
 
