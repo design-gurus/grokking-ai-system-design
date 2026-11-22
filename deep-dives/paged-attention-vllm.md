@@ -48,4 +48,4 @@ Expect the follow-up: what happens when memory runs out mid-generation. The answ
 
 - Building block: [continuous batching and the KV cache](../building-blocks/continuous-batching-and-kv-cache.md)
 - Numbers: [GPU memory math](../cheat-sheets/ai-numbers.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=deep-dives-paged-attention-vllm)

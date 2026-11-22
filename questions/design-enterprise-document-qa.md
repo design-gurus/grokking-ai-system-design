@@ -104,6 +104,9 @@ Levers: retrieve fewer passages, after measuring how many actually help. Cache r
 
 ## Go deeper
 
-The full worked solution, including the enterprise capstone: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full worked solution, including the enterprise capstone: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-enterprise-document-qa).
+
+- Lesson: [Capstone: Enterprise Document Q&A](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/capstone-enterprise-document-qa?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-enterprise-document-qa), in Grokking the AI System Design Interview
+- Lesson: [The RAG Pipeline](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/the-rag-pipeline?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-enterprise-document-qa), in Grokking the AI System Design Interview
 
 Written for a general system design round, architecture first: [Design a RAG pipeline](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-rag-pipeline.md).

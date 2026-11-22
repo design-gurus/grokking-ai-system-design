@@ -74,4 +74,6 @@ Expect these follow-ups:
 ## Go deeper
 
 - The question that puts this together: [design enterprise document Q and A](../questions/design-enterprise-document-qa.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-grounding-and-citations)
+- Lesson: [Keeping Answers Grounded](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/keeping-answers-grounded?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-grounding-and-citations), in Grokking the AI System Design Interview
+- Lesson: [Hallucinations](https://www.designgurus.io/course-play/grokking-generative-ai-fundamentals/doc/hallucinations?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-grounding-and-citations), in Grokking Generative AI Fundamentals

@@ -95,4 +95,6 @@ Levers: cache the route and its static features for repeated origin and destinat
 
 ## Go deeper
 
-The full worked solution, with the ETA capstone: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full worked solution, with the ETA capstone: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-eta-prediction).
+
+- Lesson: [Capstone: An ML Platform for ETA Prediction](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/capstone-an-ml-platform-for-eta-prediction?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-eta-prediction), in Grokking the AI System Design Interview

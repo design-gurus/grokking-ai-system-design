@@ -27,5 +27,5 @@ The one or two sentences that show you understand the idea, not just the name.
 
 ## Go deeper
 
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=deep-dives-PAGE-SLUG)
 - Related building blocks: link them here.

@@ -98,4 +98,4 @@ Compare against the alternative out loud: renting on demand is more expensive pe
 ## Go deeper
 
 - Written for a general system design round, architecture first: [Design a GPU cluster scheduler](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-gpu-cluster-scheduler.md).
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-gpu-cluster-scheduler).

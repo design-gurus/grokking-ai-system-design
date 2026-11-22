@@ -92,4 +92,5 @@ Levers: rerank fewer candidates, cache the head, and skip reranking for queries 
 ## Go deeper
 
 - Written for a general system design round, architecture first: [Design Google search](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-google-search.md).
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-search-ranking).
+- Lesson: [Design Search Ranking](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/design-search-ranking?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-search-ranking), in Grokking the AI System Design Interview

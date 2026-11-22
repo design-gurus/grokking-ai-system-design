@@ -71,4 +71,5 @@ Expect these follow-ups:
 ## Go deeper
 
 - Cost levers: [numbers you should know](../cheat-sheets/ai-numbers.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-semantic-caching)
+- Lesson: [Serving Optimizations](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/serving-optimizations?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-semantic-caching), in Grokking the AI System Design Interview

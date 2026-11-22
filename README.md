@@ -1,6 +1,6 @@
 # Grokking AI System Design
 
-> The free, open companion to **Grokking the AI System Design Interview** by [DesignGurus.io](https://www.designgurus.io/course/grokking-the-ai-system-design-interview), created by Arslan Ahmad.
+> The free, open companion to **Grokking the AI System Design Interview** by [DesignGurus.io](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme), created by Arslan Ahmad.
 
 A classic system design interview asks how data moves. An AI system design interview asks how a system that learns is built, served, measured, and paid for. This repository is a free index of the building blocks, the questions, and the reference sheets for that round. For worked solutions, diagrams, and timed practice, see the full course.
 
@@ -68,7 +68,7 @@ The families share one skeleton, the [seven-step framework](#the-seven-step-fram
 
 **Is there an AI system design PDF or book?**
 
-There is no official PDF or printed book of Grokking the AI System Design Interview. Copies that circulate online are unofficial and out of date. This repository is the free way to read the material, in your browser, with no account. The full course is at [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+There is no official PDF or printed book of Grokking the AI System Design Interview. Copies that circulate online are unofficial and out of date. This repository is the free way to read the material, in your browser, with no account. The full course is at [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme).
 
 **Do I need a machine learning background?**
 
@@ -188,19 +188,41 @@ Done so far: the seven-step framework, all 27 building blocks, 20 worked questio
 
 Want to help? Pick one from the list and open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Course lessons to start with
+
+- [A Framework for AI Design Answers](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/a-framework-for-ai-design-answers?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme): the seven steps that structure an AI design answer, in Grokking the AI System Design Interview
+- [The Three Question Families](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/the-three-question-families?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme): how to recognize which kind of AI design question you were asked, in Grokking the AI System Design Interview
+- [Training vs Serving](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/training-vs-serving?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme): the two planes of an ML system and the skew between them, in Grokking the AI System Design Interview
+- [Features and Feature Stores](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/features-and-feature-stores?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme): how features reach both training and serving, in Grokking the AI System Design Interview
+- [Design a Recommendation System](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/design-a-recommendation-system?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme): the retrieval and ranking funnel in a full worked design, in Grokking the AI System Design Interview
+- [Back of the Envelope Math for AI Systems](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/back-of-the-envelope-math-for-ai-systems?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme): sizing a GPU fleet and a token bill out loud, in Grokking the AI System Design Interview
+- [The RAG Pipeline](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/the-rag-pipeline?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme): each stage between a user question and a grounded answer, in Grokking the AI System Design Interview
+- [What an Agent Actually Is](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/what-an-agent-actually-is?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme): the loop behind every agentic design, in Grokking the AI System Design Interview
+- [Embeddings: Meaning as Coordinates](https://www.designgurus.io/course-play/grokking-generative-ai-fundamentals/doc/embeddings-meaning-as-coordinates?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme): a first explanation of embeddings for readers new to AI, in Grokking Generative AI Fundamentals
+
 ## Go deeper: the full course
 
 This repository is a free summary. The course has the worked solutions, the diagrams, the quizzes, and eight timed scenario walkthroughs.
 
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
-- AI foundations: [Grokking Modern AI Fundamentals](https://www.designgurus.io/course/grokking-modern-ai-fundamentals)
-- Classic system design: [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
-- Practice live: [Mock interviews with ex-FAANG engineers](https://www.designgurus.io/mock-interviews)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme)
+- AI foundations: [Grokking Modern AI Fundamentals](https://www.designgurus.io/course/grokking-modern-ai-fundamentals?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme)
+- Classic system design: [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme)
+- Practice live: [Mock interviews with ex-FAANG engineers](https://www.designgurus.io/mock-interviews?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme)
 - Comparing courses: [Best System Design Courses](https://github.com/design-gurus/best-system-design-courses), including the best courses for AI system design rounds
 
 ## Newsletter
 
 System design and interview tips, straight to your inbox. [Subscribe on Substack](https://designgurus.substack.com/)
+
+## More free guides
+
+Every guide below is free, follows the same short-page format, and comes from DesignGurus.io.
+
+- **Core guides:** [Grokking System Design](https://github.com/design-gurus/grokking-system-design), [Grokking Coding Interview](https://github.com/design-gurus/grokking-coding-interview), [Design Patterns](https://github.com/design-gurus/design-patterns), [Best System Design Resources](https://github.com/design-gurus/best-system-design-resources), [Best System Design Courses](https://github.com/design-gurus/best-system-design-courses)
+- **By interview round:** [System Design Numbers](https://github.com/design-gurus/system-design-numbers), [API Design Interview](https://github.com/design-gurus/api-design-interview), [Frontend System Design Interview](https://github.com/design-gurus/frontend-system-design-interview), [Mobile System Design Interview](https://github.com/design-gurus/mobile-system-design-interview), [Microservices Interview Questions](https://github.com/design-gurus/microservices-interview-questions), [Concurrency Interview](https://github.com/design-gurus/concurrency-interview)
+- **By role:** [DevOps and SRE Interview](https://github.com/design-gurus/devops-sre-interview), [Data Engineering Interview](https://github.com/design-gurus/data-engineering-interview), [Forward Deployed Engineer Interview](https://github.com/design-gurus/forward-deployed-engineer-interview), [Solutions Architect Interview](https://github.com/design-gurus/solutions-architect-interview)
+- **Seniority and behavioral:** [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview), [Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview), [Amazon Leadership Principles](https://github.com/design-gurus/amazon-leadership-principles), [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels)
+- **By company:** [Google Interview Guide](https://github.com/design-gurus/google-interview-guide), [Meta Interview Guide](https://github.com/design-gurus/meta-interview-guide), [Amazon Interview Guide](https://github.com/design-gurus/amazon-interview-guide), [Microsoft Interview Guide](https://github.com/design-gurus/microsoft-interview-guide), [Apple Interview Guide](https://github.com/design-gurus/apple-interview-guide), [Netflix Interview Guide](https://github.com/design-gurus/netflix-interview-guide), [OpenAI Interview Guide](https://github.com/design-gurus/openai-interview-guide), [Anthropic Interview Guide](https://github.com/design-gurus/anthropic-interview-guide)
 
 ## Contributing
 
@@ -212,4 +234,4 @@ Content is licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](LICENSE
 
 ## About
 
-Maintained by [DesignGurus.io](https://www.designgurus.io/), the home of the original Grokking courses by Arslan Ahmad.
+Maintained by [DesignGurus.io](https://www.designgurus.io/?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=readme), the home of the original Grokking courses by Arslan Ahmad.

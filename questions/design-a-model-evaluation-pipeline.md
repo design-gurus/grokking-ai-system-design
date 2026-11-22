@@ -95,4 +95,6 @@ Levers: run the fast subset on pull requests. Cache results for unchanged candid
 ## Go deeper
 
 - Written for a general system design round, architecture first: [Design a model evaluation pipeline](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-model-evaluation-pipeline.md).
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-model-evaluation-pipeline).
+- Lesson: [Offline Evaluation: Choosing the Metric](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/offline-evaluation-choosing-the-metric?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-model-evaluation-pipeline), in Grokking the AI System Design Interview
+- Lesson: [Evaluating LLM Systems](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/evaluating-llm-systems?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-model-evaluation-pipeline), in Grokking the AI System Design Interview

@@ -73,4 +73,6 @@ Expect these follow-ups:
 
 ## Go deeper
 
-The full lesson on chunking and indexing: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full lesson on chunking and indexing: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-chunking-strategies).
+
+- Lesson: [Chunking and Indexing](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/chunking-and-indexing?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-chunking-strategies), in Grokking the AI System Design Interview

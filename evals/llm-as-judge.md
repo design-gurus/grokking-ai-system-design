@@ -60,4 +60,6 @@ Naming two of these, and the countermeasure, is the difference between having he
 
 ## Go deeper
 
-Full lesson on evaluating LLM systems: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+Full lesson on evaluating LLM systems: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=evals-llm-as-judge).
+
+- Lesson: [Evaluating LLM Systems](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/evaluating-llm-systems?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=evals-llm-as-judge), in Grokking the AI System Design Interview

@@ -102,4 +102,7 @@ Reviewer welfare is a real design consideration for severe categories: blurring,
 
 ## Go deeper
 
-The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-harmful-content-detection).
+
+- Lesson: [Design Harmful Content Detection](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/design-harmful-content-detection?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-harmful-content-detection), in Grokking the AI System Design Interview
+- Lesson: [System Design of Harmful Content at Platform Scale](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/scenario-harmful-content-at-platform-scale?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-harmful-content-detection), in Grokking the AI System Design Interview

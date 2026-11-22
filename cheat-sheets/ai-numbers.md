@@ -90,4 +90,7 @@ Do the estimate at step 7 of the [framework](ai-system-design-framework.md), not
 
 ## Go deeper
 
-The full lesson on back-of-the-envelope math for AI systems, with worked GPU fleet and token bill examples: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full lesson on back-of-the-envelope math for AI systems, with worked GPU fleet and token bill examples: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=cheat-sheets-ai-numbers).
+
+- Lesson: [Back of the Envelope Math for AI Systems](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/back-of-the-envelope-math-for-ai-systems?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=cheat-sheets-ai-numbers), in Grokking the AI System Design Interview
+- Lesson: [Capstone: The Inference Bill](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/capstone-the-inference-bill?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=cheat-sheets-ai-numbers), in Grokking the AI System Design Interview

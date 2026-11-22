@@ -40,4 +40,4 @@ The signal an interviewer is listening for, and the follow-up questions to expec
 
 ## Go deeper
 
-Link to the relevant part of [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+Link to the relevant part of [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-PAGE-SLUG).

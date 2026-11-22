@@ -82,4 +82,5 @@ Expect these follow-ups:
 ## Go deeper
 
 - Related: [the agent loop and its bounds](agent-loop-and-bounds.md), [design a customer support agent](../questions/design-a-customer-support-agent.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-multi-agent-orchestration)
+- Lesson: [Orchestration and Multi-Agent Systems](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/orchestration-and-multiagent-systems?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-multi-agent-orchestration), in Grokking the AI System Design Interview

@@ -97,6 +97,9 @@ Levers: cut candidates from 500 to 200 for low-activity users. Cache scores for 
 
 ## Go deeper
 
-The full worked solution, with the capstone version of this question: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full worked solution, with the capstone version of this question: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-feed-ranking).
+
+- Lesson: [Design Feed Ranking](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/design-feed-ranking?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-feed-ranking), in Grokking the AI System Design Interview
+- Lesson: [Designing Facebook's Newsfeed](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-facebooks-newsfeed?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-feed-ranking), in Grokking the System Design Interview
 
 The general system design version of the same problem, without the model detail: [Design a recommendation system](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-recommendation-system.md).

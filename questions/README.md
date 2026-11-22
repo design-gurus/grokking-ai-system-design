@@ -1,6 +1,6 @@
 # AI design question catalog
 
-Every walkthrough uses the same [seven steps](../cheat-sheets/ai-system-design-framework.md) and stays at the level of approach, key decisions, and trade-offs. For full worked solutions and timed practice, see the [course](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+Every walkthrough uses the same [seven steps](../cheat-sheets/ai-system-design-framework.md) and stays at the level of approach, key decisions, and trade-offs. For full worked solutions and timed practice, see the [course](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-readme).
 
 Questions are grouped by family, because the family tells you which step takes the most time.
 

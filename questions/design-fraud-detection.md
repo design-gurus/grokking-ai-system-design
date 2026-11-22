@@ -107,4 +107,6 @@ Do the review math out loud: transactions routed to review per day, divided by c
 
 ## Go deeper
 
-The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-fraud-detection).
+
+- Lesson: [Design Fraud Detection](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/design-fraud-detection?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-fraud-detection), in Grokking the AI System Design Interview

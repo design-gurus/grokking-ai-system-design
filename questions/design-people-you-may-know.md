@@ -101,4 +101,5 @@ Storage is a ranked list per active member. Store it only for members who log in
 ## Go deeper
 
 - Written for a general system design round, architecture first: [Design people you may know](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-people-you-may-know.md).
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-people-you-may-know).
+- Lesson: [Capstone: People You May Know](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/capstone-people-you-may-know?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-people-you-may-know), in Grokking the AI System Design Interview

@@ -85,4 +85,6 @@ Expect these follow-ups:
 ## Go deeper
 
 - Related: [human in the loop](human-in-the-loop.md), [tool calling](tool-calling.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-guardrails-and-safety-filters)
+- Lesson: [Safety and Guardrails](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/safety-and-guardrails?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-guardrails-and-safety-filters), in Grokking the AI System Design Interview
+- Lesson: [Security: Prompt Injection, Data Leakage, Jailbreaks](https://www.designgurus.io/course-play/grokking-generative-ai-fundamentals/doc/security-prompt-injection-data-leakage-jailbreaks?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-guardrails-and-safety-filters), in Grokking Generative AI Fundamentals

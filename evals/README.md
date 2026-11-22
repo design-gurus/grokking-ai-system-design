@@ -46,4 +46,4 @@ Match the metric to the task, not to habit.
 
 ## Go deeper
 
-Full lessons on evaluating models, LLM systems, and agent trajectories: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+Full lessons on evaluating models, LLM systems, and agent trajectories: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=evals-readme).

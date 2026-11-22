@@ -88,4 +88,6 @@ Expect these follow-ups:
 ## Go deeper
 
 - Related: [tool calling](tool-calling.md), [agent memory](agent-memory.md), [design a customer support agent](../questions/design-a-customer-support-agent.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-agent-loop-and-bounds)
+- Lesson: [What an Agent Actually Is](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/what-an-agent-actually-is?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-agent-loop-and-bounds), in Grokking the AI System Design Interview
+- Lesson: [Evaluating and Controlling Agents](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/evaluating-and-controlling-agents?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-agent-loop-and-bounds), in Grokking the AI System Design Interview

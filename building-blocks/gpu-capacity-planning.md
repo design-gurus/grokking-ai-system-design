@@ -88,4 +88,5 @@ Expect these follow-ups:
 ## Go deeper
 
 - The anchors: [numbers you should know](../cheat-sheets/ai-numbers.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-gpu-capacity-planning)
+- Lesson: [Back of the Envelope Math for AI Systems](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/back-of-the-envelope-math-for-ai-systems?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-gpu-capacity-planning), in Grokking the AI System Design Interview

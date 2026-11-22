@@ -76,4 +76,6 @@ Expect these follow-ups:
 
 ## Go deeper
 
-The full lesson on batch and online inference: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full lesson on batch and online inference: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-batch-vs-online-inference).
+
+- Lesson: [Batch vs Online Inference](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/batch-vs-online-inference?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-batch-vs-online-inference), in Grokking the AI System Design Interview

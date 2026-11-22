@@ -114,4 +114,8 @@ Then name one lever: a smaller model for easy requests, a cache for repeated que
 
 ## Go deeper
 
-Full worked examples of all seven steps, across eight timed scenarios: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+Full worked examples of all seven steps, across eight timed scenarios: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=cheat-sheets-ai-system-design-framework).
+
+- Lesson: [A Framework for AI Design Answers](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/a-framework-for-ai-design-answers?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=cheat-sheets-ai-system-design-framework), in Grokking the AI System Design Interview
+- Lesson: [How to Run a Case Study](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/how-to-run-a-scenario?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=cheat-sheets-ai-system-design-framework), in Grokking the AI System Design Interview
+- Lesson: [Capstone: Scoping an AI Design Question](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/capstone-scoping-an-ai-design-question?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=cheat-sheets-ai-system-design-framework), in Grokking the AI System Design Interview

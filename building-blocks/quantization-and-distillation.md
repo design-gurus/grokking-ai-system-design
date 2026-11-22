@@ -79,4 +79,5 @@ Expect these follow-ups:
 ## Go deeper
 
 - Memory math: [numbers you should know](../cheat-sheets/ai-numbers.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-quantization-and-distillation)
+- Lesson: [Small, Local and Open Models](https://www.designgurus.io/course-play/grokking-generative-ai-fundamentals/doc/small-local-and-open-models?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-quantization-and-distillation), in Grokking Generative AI Fundamentals

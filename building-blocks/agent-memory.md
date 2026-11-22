@@ -82,4 +82,6 @@ Expect these follow-ups:
 ## Go deeper
 
 - Related: [the agent loop and its bounds](agent-loop-and-bounds.md), [chunking strategies](chunking-strategies.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-agent-memory)
+- Lesson: [Agent Memory and Context](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/agent-memory-and-context?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-agent-memory), in Grokking the AI System Design Interview
+- Lesson: [Memory and Learning in Agents](https://www.designgurus.io/course-play/grokking-modern-ai-fundamentals/doc/73-memory-and-learning-in-agents?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-agent-memory), in Grokking Modern AI Fundamentals

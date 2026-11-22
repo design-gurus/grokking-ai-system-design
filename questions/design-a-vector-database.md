@@ -97,4 +97,5 @@ Levers: lower dimensions, quantization with rescoring, tiering cold tenants to d
 
 - Building block: [vector indexes](../building-blocks/vector-indexes.md)
 - Written for a general system design round, architecture first: [Design semantic search](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-semantic-search.md)
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-vector-database)
+- Lesson: [Embeddings and Vector Databases](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/embeddings-and-vector-databases?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-vector-database), in Grokking the AI System Design Interview

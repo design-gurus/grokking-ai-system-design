@@ -66,4 +66,8 @@ Candidates from a research background usually describe the model well and stop. 
 
 ## Go deeper
 
-The course covers all of this with worked solutions and eight timed scenario walkthroughs: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The course covers all of this with worked solutions and eight timed scenario walkthroughs: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=roadmaps-backend-engineer-to-ai-system-design).
+
+- Lesson: [How AI System Design Shows Up in Interviews](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/how-ai-system-design-shows-up-in-interviews?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=roadmaps-backend-engineer-to-ai-system-design), in Grokking the AI System Design Interview
+- Lesson: [What Changes When the System Learns](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/what-changes-when-the-system-learns?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=roadmaps-backend-engineer-to-ai-system-design), in Grokking the AI System Design Interview
+- Lesson: [The Three Question Families](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/the-three-question-families?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=roadmaps-backend-engineer-to-ai-system-design), in Grokking the AI System Design Interview

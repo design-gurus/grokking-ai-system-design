@@ -91,4 +91,5 @@ Levers: shrink the candidate set with better targeting filters, quantize embeddi
 ## Go deeper
 
 - Written for a general system design round, architecture first: [Design an ad click aggregator](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-ad-click-aggregator.md).
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-ad-click-prediction).
+- Lesson: [Design Ad Click Prediction](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/design-ad-click-prediction?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-ad-click-prediction), in Grokking the AI System Design Interview

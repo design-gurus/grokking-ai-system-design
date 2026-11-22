@@ -77,6 +77,9 @@ Expect these follow-ups:
 
 ## Go deeper
 
-The full lesson on inference economics and serving optimizations: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full lesson on inference economics and serving optimizations: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-continuous-batching-and-kv-cache).
+
+- Lesson: [Serving Optimizations](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/serving-optimizations?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-continuous-batching-and-kv-cache), in Grokking the AI System Design Interview
+- Lesson: [Inference Economics](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/inference-economics?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-continuous-batching-and-kv-cache), in Grokking the AI System Design Interview
 
 The platform this sits inside, at general system design altitude: [Design an LLM inference platform](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-llm-inference-platform.md).

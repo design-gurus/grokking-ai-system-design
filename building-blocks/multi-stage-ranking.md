@@ -80,4 +80,5 @@ Expect these follow-ups:
 ## Go deeper
 
 - Question that uses this end to end: [design feed ranking](../questions/design-feed-ranking.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-multi-stage-ranking)
+- Lesson: [Design a Recommendation System](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/design-a-recommendation-system?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-multi-stage-ranking), in Grokking the AI System Design Interview

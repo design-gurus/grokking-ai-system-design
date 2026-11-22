@@ -100,4 +100,5 @@ Pre-labeling is a double-edged tool. It roughly doubles throughput and it biases
 ## Go deeper
 
 - Related: [human in the loop](../building-blocks/human-in-the-loop.md)
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-data-labeling-platform)
+- Lesson: [Where Training Data Comes From](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/where-training-data-comes-from?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-data-labeling-platform), in Grokking the AI System Design Interview

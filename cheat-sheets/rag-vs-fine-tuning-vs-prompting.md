@@ -58,4 +58,7 @@ A useful pairing: fine-tune for format and tone, retrieve for facts. Each tool d
 
 ## Go deeper
 
-The full lesson, with the evaluation setup that decides between them: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full lesson, with the evaluation setup that decides between them: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=cheat-sheets-rag-vs-fine-tuning-vs-prompting).
+
+- Lesson: [Prompting, Fine-Tuning, or RAG](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/prompting-finetuning-or-rag?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=cheat-sheets-rag-vs-fine-tuning-vs-prompting), in Grokking the AI System Design Interview
+- Lesson: [Prompting vs RAG vs Fine-Tuning](https://www.designgurus.io/course-play/grokking-generative-ai-fundamentals/doc/prompting-vs-rag-vs-finetuning?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=cheat-sheets-rag-vs-fine-tuning-vs-prompting), in Grokking Generative AI Fundamentals

@@ -72,4 +72,5 @@ Expect these follow-ups:
 ## Go deeper
 
 - The three evaluation layers: [evals](../evals/)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-online-experiments)
+- Lesson: [Online Experiments and A/B Testing](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/online-experiments-and-ab-testing?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-online-experiments), in Grokking the AI System Design Interview

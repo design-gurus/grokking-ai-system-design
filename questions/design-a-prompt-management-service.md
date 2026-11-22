@@ -92,4 +92,4 @@ The savings are real. Prompt length is a per-request cost, and a registry shows 
 ## Go deeper
 
 - Related: [model gateway and routing](../building-blocks/model-gateway-and-routing.md)
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-prompt-management-service)

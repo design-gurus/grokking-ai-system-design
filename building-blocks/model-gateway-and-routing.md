@@ -83,4 +83,5 @@ Expect these follow-ups:
 ## Go deeper
 
 - Cost math: [numbers you should know](../cheat-sheets/ai-numbers.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-model-gateway-and-routing)
+- Lesson: [Inference Economics](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/inference-economics?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-model-gateway-and-routing), in Grokking the AI System Design Interview

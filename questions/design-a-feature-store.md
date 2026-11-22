@@ -101,4 +101,5 @@ Levers: keep only the entities that are actually served online. Set retention pe
 
 - Building block: [feature stores](../building-blocks/feature-stores.md)
 - Platform shape: [Uber Michelangelo](../deep-dives/uber-michelangelo.md)
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-feature-store)
+- Lesson: [Features and Feature Stores](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/features-and-feature-stores?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-feature-store), in Grokking the AI System Design Interview

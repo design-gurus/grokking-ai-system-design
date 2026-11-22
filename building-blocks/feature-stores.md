@@ -66,4 +66,6 @@ Expect these follow-ups:
 
 ## Go deeper
 
-The full lesson, including the encoding recipes for turning raw signals into model inputs: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full lesson, including the encoding recipes for turning raw signals into model inputs: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-feature-stores).
+
+- Lesson: [Features and Feature Stores](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/features-and-feature-stores?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-feature-stores), in Grokking the AI System Design Interview

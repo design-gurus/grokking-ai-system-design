@@ -74,4 +74,7 @@ Expect these follow-ups:
 
 ## Go deeper
 
-The full lesson on embeddings and vector databases: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full lesson on embeddings and vector databases: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-embeddings).
+
+- Lesson: [Embeddings and Two-Tower Retrieval](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/embeddings-and-twotower-retrieval?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-embeddings), in Grokking the AI System Design Interview
+- Lesson: [Embeddings: Meaning as Coordinates](https://www.designgurus.io/course-play/grokking-generative-ai-fundamentals/doc/embeddings-meaning-as-coordinates?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-embeddings), in Grokking Generative AI Fundamentals

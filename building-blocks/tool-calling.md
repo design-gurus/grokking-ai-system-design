@@ -75,4 +75,6 @@ Expect these follow-ups:
 ## Go deeper
 
 - Related: [the agent loop and its bounds](agent-loop-and-bounds.md), [design a customer support agent](../questions/design-a-customer-support-agent.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-tool-calling)
+- Lesson: [Tool Use and Function Calling](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/tool-use-and-function-calling?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-tool-calling), in Grokking the AI System Design Interview
+- Lesson: [Structured Output and Tool Calling](https://www.designgurus.io/course-play/grokking-generative-ai-fundamentals/doc/structured-output-and-tool-calling?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-tool-calling), in Grokking Generative AI Fundamentals

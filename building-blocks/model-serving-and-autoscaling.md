@@ -76,4 +76,5 @@ Expect these follow-ups:
 ## Go deeper
 
 - Sizing the fleet: [GPU capacity planning](gpu-capacity-planning.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-model-serving-and-autoscaling)
+- Lesson: [Model Serving Basics](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/model-serving-basics?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-model-serving-and-autoscaling), in Grokking the AI System Design Interview

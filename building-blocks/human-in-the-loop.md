@@ -76,4 +76,5 @@ Expect these follow-ups:
 ## Go deeper
 
 - Related: [guardrails and safety filters](guardrails-and-safety-filters.md), [design a customer support agent](../questions/design-a-customer-support-agent.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-human-in-the-loop)
+- Lesson: [Evaluating and Controlling Agents](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/evaluating-and-controlling-agents?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-human-in-the-loop), in Grokking the AI System Design Interview

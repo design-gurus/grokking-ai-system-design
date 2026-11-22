@@ -87,4 +87,5 @@ Run it in at least two zones. It is now on the critical path of every AI feature
 ## Go deeper
 
 - Written for a general system design round, architecture first: [Design an LLM gateway](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-llm-gateway.md).
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-an-llm-gateway).
+- Lesson: [Cost, Latency and Rate Limits](https://www.designgurus.io/course-play/grokking-generative-ai-fundamentals/doc/cost-latency-and-rate-limits?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-an-llm-gateway), in Grokking Generative AI Fundamentals

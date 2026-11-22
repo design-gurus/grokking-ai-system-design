@@ -4,9 +4,9 @@ Free reading that pairs well with this repository. Papers are listed for the ide
 
 ## Start here
 
-- [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview), the course this repository accompanies.
-- [Grokking Modern AI Fundamentals](https://www.designgurus.io/course/grokking-modern-ai-fundamentals), if the model vocabulary itself is new.
-- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview), for the classic distributed systems half that every AI round still assumes.
+- [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=resources), the course this repository accompanies.
+- [Grokking Modern AI Fundamentals](https://www.designgurus.io/course/grokking-modern-ai-fundamentals?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=resources), if the model vocabulary itself is new.
+- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=resources), for the classic distributed systems half that every AI round still assumes.
 - [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion repository for classic system design.
 
 ## Papers worth knowing by name
@@ -70,6 +70,6 @@ You are not asked to configure these, only to know what category each one fills.
 
 ## DesignGurus reading
 
-- [DesignGurus blog](https://www.designgurus.io/blog)
-- [Mock interviews with ex-FAANG engineers](https://www.designgurus.io/mock-interviews)
+- [DesignGurus blog](https://www.designgurus.io/blog?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=resources)
+- [Mock interviews with ex-FAANG engineers](https://www.designgurus.io/mock-interviews?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=resources)
 - [Newsletter on Substack](https://designgurus.substack.com/)

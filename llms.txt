@@ -38,6 +38,36 @@ The material is organized around a seven-step framework: frame the problem, defi
 
 - [Backend engineer to AI system design](https://github.com/design-gurus/grokking-ai-system-design/blob/main/roadmaps/backend-engineer-to-ai-system-design.md): a three to four week plan for engineers who ship services but have never shipped a model.
 
+## Related free guides
+
+- [Grokking System Design](https://github.com/design-gurus/grokking-system-design): 30 patterns, 59 question walkthroughs, 35 cheat sheets, and guides for 122 companies.
+- [Grokking Coding Interview](https://github.com/design-gurus/grokking-coding-interview): The 41 coding patterns and how to recognize each one in a new problem.
+- [Design Patterns](https://github.com/design-gurus/design-patterns): The 22 Gang of Four patterns and more than 60 system design patterns.
+- [Best System Design Resources](https://github.com/design-gurus/best-system-design-resources): Courses, books, papers, and videos, sorted by level.
+- [Best System Design Courses](https://github.com/design-gurus/best-system-design-courses): System design courses compared by format, depth, and level.
+- [System Design Numbers](https://github.com/design-gurus/system-design-numbers): Latency numbers, availability tables, traffic formulas, and ten worked capacity estimations.
+- [API Design Interview](https://github.com/design-gurus/api-design-interview): A six-step method for the API design round, the core concepts, and eight question walkthroughs.
+- [Frontend System Design Interview](https://github.com/design-gurus/frontend-system-design-interview): The client side of system design: rendering, state, caching, performance, and eight question walkthroughs.
+- [Mobile System Design Interview](https://github.com/design-gurus/mobile-system-design-interview): System design for iOS and Android engineers: offline sync, caching, push, performance, and eight question walkthroughs.
+- [Microservices Interview Questions](https://github.com/design-gurus/microservices-interview-questions): About 100 questions with short model answers, from service boundaries to sagas and migration.
+- [Concurrency Interview](https://github.com/design-gurus/concurrency-interview): Core concepts and nine classic problems solved in Java, Python, and Go.
+- [DevOps and SRE Interview](https://github.com/design-gurus/devops-sre-interview): The loop round by round: troubleshooting, Linux and networking, SRE system design, and incident response.
+- [Data Engineering Interview](https://github.com/design-gurus/data-engineering-interview): SQL, data modeling, and pipeline design rounds, with six pipeline design walkthroughs.
+- [Forward Deployed Engineer Interview](https://github.com/design-gurus/forward-deployed-engineer-interview): The forward deployed engineer loop, the decomposition round, and the loops at five companies.
+- [Solutions Architect Interview](https://github.com/design-gurus/solutions-architect-interview): Architecture design, customer discovery, and presentation rounds, with loops at five cloud and data companies.
+- [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview): What changes at staff level: the loop, system design at staff scope, the project deep dive, and down-leveling.
+- [Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview): The manager loop round by round: people management, project retrospective, behavioral, and system design for managers.
+- [Amazon Leadership Principles](https://github.com/design-gurus/amazon-leadership-principles): All 16 principles with interview questions, sample answers, and how the Amazon loop works.
+- [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels): Engineering ladders at 17 companies, how levels map across them, and what interviews expect at each level.
+- [Google Interview Guide](https://github.com/design-gurus/google-interview-guide): The whole Google loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Meta Interview Guide](https://github.com/design-gurus/meta-interview-guide): The whole Meta loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Amazon Interview Guide](https://github.com/design-gurus/amazon-interview-guide): The whole Amazon loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Microsoft Interview Guide](https://github.com/design-gurus/microsoft-interview-guide): The whole Microsoft loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Apple Interview Guide](https://github.com/design-gurus/apple-interview-guide): The whole Apple loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Netflix Interview Guide](https://github.com/design-gurus/netflix-interview-guide): The whole Netflix loop: process, coding, system design, behavioral, levels, and a question bank.
+- [OpenAI Interview Guide](https://github.com/design-gurus/openai-interview-guide): The whole OpenAI loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Anthropic Interview Guide](https://github.com/design-gurus/anthropic-interview-guide): The whole Anthropic loop: process, coding, system design, behavioral, levels, and a question bank.
+
 ## Optional
 
 - [Course: Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)

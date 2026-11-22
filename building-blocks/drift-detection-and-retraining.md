@@ -70,4 +70,5 @@ Expect these follow-ups:
 ## Go deeper
 
 - Evaluation layers: [evals](../evals/)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-drift-detection-and-retraining)
+- Lesson: [Monitoring, Drift, and Retraining](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/monitoring-drift-and-retraining?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=building-blocks-drift-detection-and-retraining), in Grokking the AI System Design Interview

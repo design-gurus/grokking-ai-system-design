@@ -89,4 +89,5 @@ Levers: smaller embedding dimensions, quantized vectors with exact rescoring at 
 ## Go deeper
 
 - Related: [embeddings](../building-blocks/embeddings.md), [vector indexes](../building-blocks/vector-indexes.md)
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-visual-search)
+- Lesson: [System Design of Visual Search for a Marketplace](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/scenario-visual-search-for-a-marketplace?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-visual-search), in Grokking the AI System Design Interview

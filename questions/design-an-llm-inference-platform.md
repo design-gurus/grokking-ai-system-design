@@ -100,4 +100,5 @@ Levers: fill troughs with batch work. Quantize models so more fit per GPU. Run p
 ## Go deeper
 
 - Written for a general system design round, architecture first: [Design an LLM inference platform](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-llm-inference-platform.md).
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-an-llm-inference-platform).
+- Lesson: [Model Serving Basics](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/model-serving-basics?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-an-llm-inference-platform), in Grokking the AI System Design Interview

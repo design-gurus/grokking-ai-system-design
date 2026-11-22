@@ -42,4 +42,6 @@ Expect the follow-up: how a team gets a new feature into production. The answer 
 ## Go deeper
 
 - Building block: [feature stores](../building-blocks/feature-stores.md)
-- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview)
+- Course: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=deep-dives-uber-michelangelo)
+- Lesson: [Training vs Serving](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/training-vs-serving?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=deep-dives-uber-michelangelo), in Grokking the AI System Design Interview
+- Lesson: [Capstone: An ML Platform for ETA Prediction](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/capstone-an-ml-platform-for-eta-prediction?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=deep-dives-uber-michelangelo), in Grokking the AI System Design Interview

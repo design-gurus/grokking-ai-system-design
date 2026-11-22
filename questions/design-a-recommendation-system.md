@@ -93,4 +93,6 @@ Levers: shrink the candidate set for low-activity users, cache the ranked list f
 ## Go deeper
 
 - Written for a general system design round, architecture first: [Design a recommendation system](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-recommendation-system.md).
-- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+- The full worked solution: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-recommendation-system).
+- Lesson: [Design a Recommendation System](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/design-a-recommendation-system?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-recommendation-system), in Grokking the AI System Design Interview
+- Lesson: [System Design of Spotify-Style Music Discovery](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/scenario-spotifystyle-music-discovery?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-recommendation-system), in Grokking the AI System Design Interview

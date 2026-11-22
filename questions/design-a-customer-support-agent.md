@@ -120,6 +120,9 @@ Levers: cap steps, summarize tool output, and use a small model for the final me
 
 ## Go deeper
 
-The full worked solution, including the agentic capstone that runs on this same scenario: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview).
+The full worked solution, including the agentic capstone that runs on this same scenario: [Grokking the AI System Design Interview](https://www.designgurus.io/course/grokking-the-ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-customer-support-agent).
+
+- Lesson: [Capstone: A Customer-Support Agent](https://www.designgurus.io/course-play/grokking-the-ai-system-design-interview/doc/capstone-a-customersupport-agent?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-customer-support-agent), in Grokking the AI System Design Interview
+- Lesson: [Capstone: Design an AI Support Assistant](https://www.designgurus.io/course-play/grokking-generative-ai-fundamentals/doc/capstone-design-an-ai-support-assistant?utm_source=github&utm_medium=repo&utm_campaign=grokking-ai-system-design&utm_content=questions-design-a-customer-support-agent), in Grokking Generative AI Fundamentals
 
 Written for a general system design round, architecture first: [Design an AI agent orchestration system](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-ai-agent-orchestration.md).
